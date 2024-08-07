@@ -1,0 +1,35 @@
+#alinha{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo img{
+    height: 250px;
+    width: 250px;
+
+  }
+
+
+#redColor{
+    color: red;
+}
+
+#sobremim {
+    color: red;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#textosobremim{
+    text-align: left;
+    margin-left: 100px;
+}
+
+#zoas{
+    text-align: center;
+    margin-top: 200px;
+    color: red;
+}
